@@ -1,7 +1,7 @@
 #import tools #module結構化
 #from tools import calculate_bmi, get_state #指定improt
 import edu #package結構化專案
-# form edu.tools import calculate_bmi as a
+# form edu.tools import calculate_bmi as a #as 重新命名
 # form edu.tools get_state as b
 def main():
     try:
